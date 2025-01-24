@@ -1,5 +1,6 @@
-x = 5
-y = "hello world"
-#THIS IS A COMMENT
-if x > 2:
-    print("five is greater than two")
+myvar = "Asyl"
+my_var = "Asyl"
+_my_var = "Asyl"
+myVar = "Asyl"
+MYVAR = "Asyl"
+myvar2 = "Asyl"
